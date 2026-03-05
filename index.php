@@ -10,7 +10,7 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="styles/index.css" />
-    <title>Nome do ecommercer</title>
+    <title>Clothing</title>
   </head>
 
   <body>
