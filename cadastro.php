@@ -147,11 +147,6 @@ async function buscaCEP() {
                             Please select a valid country.
                         </div>
                     </div>
-                    <div class="col-md-4"> <label for="state" class="form-label">Estado</label> <select
-                            class="form-select" id="state" required>
-                            <option value="">Selecionar...</option>
-                            <option></option>
-                            <option>EUA</option>
                         </select>
                         <div class="invalid-feedback">
                             Please provide a valid state.
